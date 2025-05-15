@@ -1,0 +1,36 @@
+🔍 Evaluating on test_design_ids.txt :
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9525
+🔹 MSE          : 0.000066
+🔹 RMSE         : 0.008148
+🔹 MAE          : 0.006107
+🔹 MAPE         : 2.23%
+🔹 Cars tested  : 1158 / 1158
+🔹 Inference Time: 0.034067 seconds
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
+🔍 Evaluating on val_design_ids.txt :
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9444
+🔹 MSE          : 0.000072
+🔹 RMSE         : 0.008492
+🔹 MAE          : 0.006338
+🔹 MAPE         : 2.32%
+🔹 Cars tested  : 1157 / 1157
+🔹 Inference Time: 0.033928 seconds
+💾 Saved predictions to: ../outputs/eval/cd_predictions_val_design_ids.csv
+------------------------------------------------------------
+🔍 Evaluating on train_design_ids.txt :
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9679
+🔹 MSE          : 0.000045
+🔹 RMSE         : 0.006710
+🔹 MAE          : 0.005099
+🔹 MAPE         : 1.86%
+🔹 Cars tested  : 5398 / 5398
+🔹 Inference Time: 0.034106 seconds
+💾 Saved predictions to: ../outputs/eval/cd_predictions_train_design_ids.csv
+------------------------------------------------------------

@@ -1,0 +1,6 @@
+.venv
+slices/*
+__pycache__/
+*.npz
+*.npy
+checkpoints3
