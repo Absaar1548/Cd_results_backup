@@ -1,0 +1,11 @@
+
+📊 Evaluation Summary (train_design_ids):
+🔹 R² Score                 : 0.9678
+🔹 MSE                      : 0.000045
+🔹 RMSE                     : 0.006718
+🔹 Mean_Absolute_Error(MAE) : 0.005104
+🔹 Max_Absolute_Error(MAE)  : 0.0321
+🔹 MAPE                     : 1.86%
+🔹 Cars tested              : 5398
+🔹 Avg inference time       : 0.024938 sec
+------------------------------------------------------------

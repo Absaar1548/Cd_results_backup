@@ -1,0 +1,11 @@
+
+📊 Evaluation Summary (val_design_ids):
+🔹 R² Score                 : 0.9443
+🔹 MSE                      : 0.000072
+🔹 RMSE                     : 0.008498
+🔹 Mean_Absolute_Error(MAE) : 0.006335
+🔹 Max_Absolute_Error(MAE)  : 0.0383
+🔹 MAPE                     : 2.32%
+🔹 Cars tested              : 1157
+🔹 Avg inference time       : 0.025009 sec
+------------------------------------------------------------
